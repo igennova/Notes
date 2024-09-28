@@ -1,7 +1,7 @@
 import { useAnimations, useGLTF, OrbitControls } from "@react-three/drei"; // Import OrbitControls
 import { Canvas } from "@react-three/fiber";
 import { Suspense, useEffect, useRef, useState } from "react";
-import spacemanScene from "../assets/3d/book.glb";
+import spacemanScene from "../assets/3D/book.glb";
 
 const Book1 = ({ scale, position }) => {
     const spacemanRef = useRef();
