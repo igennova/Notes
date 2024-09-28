@@ -1,0 +1,6 @@
+.App {
+    min-height: 100vh; /* Allow full height for scrolling */
+    display: flex;
+    flex-direction: column;
+  }
+  
