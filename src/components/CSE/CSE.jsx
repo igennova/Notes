@@ -20,9 +20,9 @@ const CSEComponent = () => {
         units: [
           { name: "Unit 1", link: "https://drive.google.com/file/d/1exMDdQsQTFIkyLqyH4G9rR6wOcllUqcr/view?usp=sharing" },
           { name: "Unit 2", link: "https://drive.google.com/file/d/1IiDkmoAsivIvDBNDyZxRowk4k0A-0HMy/view?usp=sharing" },
-          { name: "Unit 3", link: "https://drive.google.com/link8" },
+          { name: "Unit 3", link: "https://drive.google.com/drive/folders/1iaR7m4kRWfObiP1av8cHDA7BcPoW3FKM?usp=drive_link" },
           { name: "Unit 4", link: "https://drive.google.com/link9" },
-          { name: "Unit 5", link: "https://drive.google.com/link10" },
+          { name: "Unit 5", link: "https://drive.google.com/file/d/1u0EovM-NoXvHJnXK3JuewfVvw5BvvJ0f/view?usp=drive_link" },
         ],
       },
       {
@@ -70,11 +70,11 @@ const CSEComponent = () => {
       {
         subject: "Environmental Science",
         units: [
-          { name: "Unit 1", link: "https://drive.google.com/link31" },
-          { name: "Unit 2", link: "https://drive.google.com/link32" },
-          { name: "Unit 3", link: "https://drive.google.com/link33" },
-          { name: "Unit 4", link: "https://drive.google.com/link34" },
-          { name: "Unit 5", link: "https://drive.google.com/link35" },
+          { name: "Unit 1", link: "https://drive.google.com/file/d/19R1R8gARWelc3zCt0HpQw3fURSIr_LBW/view?usp=drive_link" },
+          { name: "Unit 2", link: "https://drive.google.com/file/d/1b3EQu0A_OsUpRiU3cgLF7w8qghj3PGY3/view?usp=drive_link" },
+          { name: "Unit 3", link: "https://drive.google.com/file/d/1FB8-myEEYDVJ1_6isETkZkdSQ8BORnhC/view?usp=drive_link" },
+          { name: "Unit 4", link: "https://drive.google.com/file/d/1ej7i69buSk-JKThvs4C_dZkyC8Xtql97/view?usp=drive_link" },
+          { name: "Unit 5", link: "https://drive.google.com/file/d/1mQSQNDOwOqRIVQ_WzvNfshWcnOukLjW5/view?usp=drive_link" },
         ],
       },
       {
