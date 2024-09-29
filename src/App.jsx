@@ -4,11 +4,13 @@ import CardComponent from './components/yearCard/Year';
 import FlipCardSection from './components/Cards/Cards';
 import BranchDetails from './components/yearCard/Year'; // Branch details will show the drive links
 import CSEComponent from './components/CSE/CSE';
-
+import Navbar from './components/Navbar';
 function App() {
   return (
     <BrowserRouter>
+    <Navbar />
       <Routes>
+      
         <Route path="/" element={<Home />} />
         <Route path="/branches" element={<FlipCardSection />} />
         {/* Dynamic route for year selection based on branch */}
@@ -16,6 +18,7 @@ function App() {
         {/* Dynamic route to show notes based on branch and year */}
         <Route path="/:branchName/year/:year" element={<BranchDetails />} />
         <Route path="/cse/year/1" element={<CSEComponent/>} />
+      
       </Routes>
     </BrowserRouter>
   );

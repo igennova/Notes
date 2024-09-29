@@ -15,11 +15,11 @@ const FlipCard = ({ name, description, link }) => {
       <div className="flip-card-inner">
         <div className="flip-card-front">
           <p className="title">{name}</p>
-          <p>Hover Me</p>
+          {/* <p>Hover Me</p> */}
         </div>
         <div className="flip-card-back">
           <p className="title">{description}</p>
-          <p>Leave Me</p>
+          {/* <p>Leave Me</p> */}
         </div>
       </div>
     </Link>

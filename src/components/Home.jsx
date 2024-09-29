@@ -5,7 +5,7 @@ import FlipCardSection from "./Cards/Cards";
 const Home=()=>{
     return(
     <>
-    <Navbar/>
+   
     <Hero/>
     <FlipCardSection/>
  

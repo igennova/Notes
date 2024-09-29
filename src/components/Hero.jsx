@@ -68,7 +68,7 @@ const Hero = ({ scrollContainer }) => {
       </div>
 
       {/* Scroll Down Button */}
-      <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 z-20">
+      <div className="absolute bottom-20 left-1/2 transform -translate-x-1/2 z-20">
         <button 
           onClick={handleScrollDown} 
           className="bg-white text-black p-3 rounded-full shadow-lg hover:bg-gray-200 transition duration-300"
