@@ -7,18 +7,19 @@ const CSEComponent = () => {
       {
         subject: "Mathematics",
         units: [
-          { name: "Unit 1", link: "https://drive.google.com/link1" },
-          { name: "Unit 2", link: "https://drive.google.com/link2" },
-          { name: "Unit 3", link: "https://drive.google.com/link3" },
-          { name: "Unit 4", link: "https://drive.google.com/link4" },
-          { name: "Unit 5", link: "https://drive.google.com/link5" },
+          { name: "Unit 1", link: "https://drive.google.com/file/d/1qPuug610ctUeP3lVusQ08y_AKNgkNn4O/view?usp=drive_link" },
+          { name: "Unit 2", link: "https://drive.google.com/file/d/1djQ6AIPuyduSsqUkCzo55yhe2xhvgO8C/view?usp=drive_link" },
+          { name: "Unit 3", link: "https://drive.google.com/file/d/1NCnTVxHV-G7hICM8AMBCoRD5GTGyerDO/view?usp=drive_link" },
+          { name: "Unit 4", link: "https://drive.google.com/file/d/1PRT2VcKNFSZ9_u2iCcD6u8eRH_AVvf0y/view?usp=drive_link" },
+          { name: "Unit 5", link: "https://drive.google.com/file/d/1gHQ4sMRC-56I3CL-HjD_n-2Og8lQVMqV/view?usp=drive_link" },
+          {name: "Previou year Paper",link: "https://drive.google.com/file/d/"},
         ],
       },
       {
         subject: "Physics",
         units: [
-          { name: "Unit 1", link: "https://drive.google.com/link6" },
-          { name: "Unit 2", link: "https://drive.google.com/link7" },
+          { name: "Unit 1", link: "https://drive.google.com/file/d/1exMDdQsQTFIkyLqyH4G9rR6wOcllUqcr/view?usp=sharing" },
+          { name: "Unit 2", link: "https://drive.google.com/file/d/1IiDkmoAsivIvDBNDyZxRowk4k0A-0HMy/view?usp=sharing" },
           { name: "Unit 3", link: "https://drive.google.com/link8" },
           { name: "Unit 4", link: "https://drive.google.com/link9" },
           { name: "Unit 5", link: "https://drive.google.com/link10" },

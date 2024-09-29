@@ -11,9 +11,11 @@ h1 {
 }
 }
 .semester {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   h2{
     font-size: 3rem;
+    font-weight: 200;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
 }
 
