@@ -29,6 +29,10 @@ const Navbar = () => {
             <CodeBracketIcon className="h-5 w-5 mr-1" />
             Contribute
           </a>
+          {/* <a href="https://github.com/igennova/Notes" className="hover:text-blue-400 transition duration-200 flex items-center">
+            <CodeBracketIcon className="h-5 w-5 mr-1" />
+            Contact
+          </a> */}
         </div>
         
         {/* Mobile Menu Button */}
